@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/contact me.md",
+                "file": "_tabs/About.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "contact me"
+              "title": "About"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tabs/contact me.md",
+                "file": "_tabs/About.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for contact me"
+              "title": "Backlinks for About"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tabs/contact me.md",
+                "file": "_tabs/About.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from contact me"
+              "title": "Outgoing links from About"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_tabs/contact me.md"
+                "file": "_tabs/About.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of contact me"
+              "title": "Outline of About"
             }
           },
           {
@@ -175,10 +175,10 @@
   },
   "active": "7f4dc462e9f2dd0b",
   "lastOpenFiles": [
-    "_tabs/archives.md",
-    "_tabs/contact me.md",
-    "_tabs/about.md",
-    "_tabs/categories.md",
+    "_tabs/Archives.md",
+    "_tabs/Categories.md",
+    "_tabs/Contact Me.md",
+    "_tabs/About.md",
     "_tabs/tags.md",
     "_posts/2024-12-17-Doctor's Personal App with EMR.md",
     "_posts/2024-12-22-Uber for Rural and Non Urban Areas.md"
