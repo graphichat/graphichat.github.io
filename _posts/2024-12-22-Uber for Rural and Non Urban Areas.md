@@ -56,7 +56,7 @@ Often when we think of digital solutions for the Rural and Non urban people, we 
 - Many users depend on younger generation family members to help with apps.
 - Many people often call up their personal connections to book cabs or arrange vehicles for them
 - Users tend to not pay through card, in app payments, and prefer to pay through cash or upi in some cases.
-{% figma <https://www.figma.com/board/iNtB8pcgQ4lyIfBslXpMk5/Uber-for-Rural-and-Non-Urban-Users?node-id=3-5&t=B40P3ESWX5KX7Lmo-4> %}
+https://www.figma.com/board/iNtB8pcgQ4lyIfBslXpMk5/Uber-for-Rural-and-Non-Urban-Users?node-id=3-5&t=B40P3ESWX5KX7Lmo-4
 
 
 
@@ -75,13 +75,13 @@ Sunita is a homemaker in a small town who uses Uber to arrange transport for her
 please find the detailed personas here
 
 
-{% figma <https://www.figma.com/board/iNtB8pcgQ4lyIfBslXpMk5/Uber-for-Rural-and-Non-Urban-Users?node-id=9-209&node-type=section&t=B40P3ESWX5KX7Lmo-11> %}
+https://www.figma.com/board/iNtB8pcgQ4lyIfBslXpMk5/Uber-for-Rural-and-Non-Urban-Users?node-id=9-209&node-type=section&t=B40P3ESWX5KX7Lmo-11
 
 # Ideation on the Problem
 
 Here is the ideation bubble map I have created when ideating for the Uber for Rural and Non Urban Users.
 
-{% figma <https://www.figma.com/board/iNtB8pcgQ4lyIfBslXpMk5/Uber-for-Rural-and-Non-Urban-Users?node-id=14-676&node-type=section&t=CtFdgIvL15Xsxtg6-11> %}
+https://www.figma.com/board/iNtB8pcgQ4lyIfBslXpMk5/Uber-for-Rural-and-Non-Urban-Users?node-id=14-676&node-type=section&t=CtFdgIvL15Xsxtg6-11
 
 
 During the ideation phase, I was focussing on addressing the unique challenges faced by rural and non-urban users while using ride-booking services like Uber. I had listed lot of ideas brainstormed to ensure inclusivity, usability, and scalability. Below are the key ideas generated during this stage:
@@ -118,7 +118,7 @@ During the ideation phase, I was focussing on addressing the unique challenges f
 
 # Flows
 
-{% figma <https://www.figma.com/board/iNtB8pcgQ4lyIfBslXpMk5/Uber-for-Rural-and-Non-Urban-Users?node-id=23-1494&node-type=section&t=CtFdgIvL15Xsxtg6-11> %}
+https://www.figma.com/board/iNtB8pcgQ4lyIfBslXpMk5/Uber-for-Rural-and-Non-Urban-Users?node-id=23-1494&node-type=section&t=CtFdgIvL15Xsxtg6-11
 
 
 # Design Wireframes
