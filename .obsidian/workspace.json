@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/About.md",
+                "file": "_posts/2024-12-22-Uber for Rural and Non Urban Areas.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "About"
+              "title": "2024-12-22-Uber for Rural and Non Urban Areas"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tabs/About.md",
+                "file": "_posts/2024-12-22-Uber for Rural and Non Urban Areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for About"
+              "title": "Backlinks for 2024-12-22-Uber for Rural and Non Urban Areas"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tabs/About.md",
+                "file": "_posts/2024-12-22-Uber for Rural and Non Urban Areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from About"
+              "title": "Outgoing links from 2024-12-22-Uber for Rural and Non Urban Areas"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_tabs/About.md"
+                "file": "_posts/2024-12-22-Uber for Rural and Non Urban Areas.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of About"
+              "title": "Outline of 2024-12-22-Uber for Rural and Non Urban Areas"
             }
           },
           {
@@ -173,14 +173,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f4dc462e9f2dd0b",
+  "active": "4fa3bb21565374ce",
   "lastOpenFiles": [
+    "_plugins/Figma.rb",
+    "_plugins",
+    "_tabs/contact me.md",
+    "_posts/2024-12-17-Doctor's Personal App with EMR.md",
+    "_tabs/About.md",
     "_tabs/Archives.md",
     "_tabs/Categories.md",
     "_tabs/Contact Me.md",
-    "_tabs/About.md",
     "_tabs/tags.md",
-    "_posts/2024-12-17-Doctor's Personal App with EMR.md",
     "_posts/2024-12-22-Uber for Rural and Non Urban Areas.md"
   ]
 }
