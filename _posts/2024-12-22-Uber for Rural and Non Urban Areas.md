@@ -56,9 +56,9 @@ Often when we think of digital solutions for the Rural and Non urban people, we 
 - Many users depend on younger generation family members to help with apps.
 - Many people often call up their personal connections to book cabs or arrange vehicles for them
 - Users tend to not pay through card, in app payments, and prefer to pay through cash or upi in some cases.
+![https://www.figma.com/board/iNtB8pcgQ4lyIfBslXpMk5/Uber-for-Rural-and-Non-Urban-Users?node-id=3-5&t=B40P3ESWX5KX7Lmo-4]
+
 https://www.figma.com/board/iNtB8pcgQ4lyIfBslXpMk5/Uber-for-Rural-and-Non-Urban-Users?node-id=3-5&t=B40P3ESWX5KX7Lmo-4
-
-
 
 # User Personas
 
@@ -127,7 +127,7 @@ https://www.figma.com/board/iNtB8pcgQ4lyIfBslXpMk5/Uber-for-Rural-and-Non-Urban-
 
 In Rural users often go to regular places. For regular use there might be 4 to 5 places where they go regularly. Hence I have brought the suggestions to the booking screen. There are times when people book for relatives and friends often because of relatives might be illiterate or not tech savvy. So gave option to book a ride to a friend also in the main ride screen.
 
-![[Pasted image 20241222211550.png]]
+![This is ride booking](/attachments/Pasted image 20241222211550.png)
 
 ## 2. Selecting a Location
 
