@@ -127,13 +127,14 @@ https://www.figma.com/board/iNtB8pcgQ4lyIfBslXpMk5/Uber-for-Rural-and-Non-Urban-
 
 In Rural users often go to regular places. For regular use there might be 4 to 5 places where they go regularly. Hence I have brought the suggestions to the booking screen. There are times when people book for relatives and friends often because of relatives might be illiterate or not tech savvy. So gave option to book a ride to a friend also in the main ride screen.
 
-![This is ride booking](/attachments/Pasted image 20241222211550.png)
+![This is ride booking](_posts/attachments/Booking_main_screen.png)
+[Booking_main_screen](Booking_main_screen.png)
 
 ## 2. Selecting a Location
 
 When selecting a location the user has to pick mostly from the known locations. If it is his first time there should be option to see and know his location and also save that location for future booking.
 
-![[Pasted image 20241222211607.png]]
+![[bookng_screen_2.png]]
 
 # Conclusion
 
